@@ -7,6 +7,11 @@
 #include <vector>
 #include <iomanip>
 
+
+//Teszt szavak lesznek itt
+// OK __alma__ _123_ 12_3
+//NOK :_:_:  112asf*  /_  \_ 12\ @3 @_ -. :-
+
 using namespace std;
 
 void WordCounter::count(ifstream& file) {

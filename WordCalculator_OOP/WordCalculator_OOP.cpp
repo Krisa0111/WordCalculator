@@ -24,7 +24,6 @@ int main() {
 
     wc.sortAndPrintAlphabetically(countByAlphabet);
 
-    // Close output files
     countByAppearance.close();
     countByAlphabet.close();
 }
