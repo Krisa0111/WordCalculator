@@ -10,7 +10,7 @@ using namespace std;
 class WordCounter {
 public:
    
-    WordCounter() : letters(0), nums(0), puncts(0), spaces(0), words(0), lines(0) {}
+    WordCounter() {};
 
     void count(ifstream& file);
 
@@ -21,11 +21,6 @@ public:
 private:
     string word;
     mutable map<string, int> wordCount;
-    int letters;
-    int nums;
-    int puncts;
-    int spaces;
-    int words;
-    int lines;
+
 };
 

@@ -17,8 +17,8 @@ int main() {
     // fájl becsuk
     file.close();
 
-    ofstream countByAppearance("countByAppearance.txt");
-    ofstream countByAlphabet("countByAlphabet.txt");
+    ofstream countByAppearance("countByAppearance_OOP.txt");
+    ofstream countByAlphabet("countByAlphabet_OOP.txt");
 
     wc.sortAndPrintByAppearance(countByAppearance);
 
