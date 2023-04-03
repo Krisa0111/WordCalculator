@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordCalculator", "WordCalculator\WordCalculator.vcxproj", "{C114AF2C-2E9E-4963-B042-850828C90222}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordCalculator_OOP", "WordCalculator_OOP\WordCalculator_OOP.vcxproj", "{9D33E524-50BB-4AAF-9595-639E2C361B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Debug|x64.ActiveCfg = Debug|x64
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Debug|x64.Build.0 = Debug|x64
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Debug|x86.ActiveCfg = Debug|Win32
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Debug|x86.Build.0 = Debug|Win32
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Release|x64.ActiveCfg = Release|x64
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Release|x64.Build.0 = Release|x64
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Release|x86.ActiveCfg = Release|Win32
+		{C114AF2C-2E9E-4963-B042-850828C90222}.Release|x86.Build.0 = Release|Win32
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Debug|x64.ActiveCfg = Debug|x64
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Debug|x64.Build.0 = Debug|x64
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Debug|x86.Build.0 = Debug|Win32
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Release|x64.ActiveCfg = Release|x64
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Release|x64.Build.0 = Release|x64
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Release|x86.ActiveCfg = Release|Win32
+		{9D33E524-50BB-4AAF-9595-639E2C361B56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367B4CC3-9E7E-4A28-8A21-63444A798A20}
+	EndGlobalSection
+EndGlobal
